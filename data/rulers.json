@@ -1,0 +1,506 @@
+[
+  {
+    "id": "maurya_r1",
+    "name": "Chandragupta Maurya",
+    "kingdomId": "maurya",
+    "kingdom": "Maurya Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "maurya_r2",
+    "name": "Bindusara",
+    "kingdomId": "maurya",
+    "kingdom": "Maurya Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "maurya_r3",
+    "name": "Ashoka",
+    "kingdomId": "maurya",
+    "kingdom": "Maurya Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "gupta_r1",
+    "name": "Chandragupta I",
+    "kingdomId": "gupta",
+    "kingdom": "Gupta Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "gupta_r2",
+    "name": "Samudragupta",
+    "kingdomId": "gupta",
+    "kingdom": "Gupta Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "gupta_r3",
+    "name": "Chandragupta II",
+    "kingdomId": "gupta",
+    "kingdom": "Gupta Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "kushan_r1",
+    "name": "Kujula Kadphises",
+    "kingdomId": "kushan",
+    "kingdom": "Kushan Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "kushan_r2",
+    "name": "Vima Kadphises",
+    "kingdomId": "kushan",
+    "kingdom": "Kushan Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "kushan_r3",
+    "name": "Kanishka",
+    "kingdomId": "kushan",
+    "kingdom": "Kushan Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "satavahana_r1",
+    "name": "Simuka",
+    "kingdomId": "satavahana",
+    "kingdom": "Satavahana Dynasty",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "satavahana_r2",
+    "name": "Gautamiputra Satakarni",
+    "kingdomId": "satavahana",
+    "kingdom": "Satavahana Dynasty",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "satavahana_r3",
+    "name": "Vashishthiputra Pulumavi",
+    "kingdomId": "satavahana",
+    "kingdom": "Satavahana Dynasty",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "pallava_r1",
+    "name": "Simhavishnu",
+    "kingdomId": "pallava",
+    "kingdom": "Pallava Kingdom",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "pallava_r2",
+    "name": "Mahendravarman I",
+    "kingdomId": "pallava",
+    "kingdom": "Pallava Kingdom",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "pallava_r3",
+    "name": "Narasimhavarman I",
+    "kingdomId": "pallava",
+    "kingdom": "Pallava Kingdom",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "chola_r1",
+    "name": "Vijayalaya Chola",
+    "kingdomId": "chola",
+    "kingdom": "Chola Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "chola_r2",
+    "name": "Rajaraja I",
+    "kingdomId": "chola",
+    "kingdom": "Chola Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "chola_r3",
+    "name": "Rajendra I",
+    "kingdomId": "chola",
+    "kingdom": "Chola Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "chola_r4",
+    "name": "Kulothunga I",
+    "kingdomId": "chola",
+    "kingdom": "Chola Empire",
+    "order": 4,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "pala_r1",
+    "name": "Gopala",
+    "kingdomId": "pala",
+    "kingdom": "Pala Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "pala_r2",
+    "name": "Dharmapala",
+    "kingdomId": "pala",
+    "kingdom": "Pala Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "pala_r3",
+    "name": "Devapala",
+    "kingdomId": "pala",
+    "kingdom": "Pala Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "rashtrakuta_r1",
+    "name": "Dantidurga",
+    "kingdomId": "rashtrakuta",
+    "kingdom": "Rashtrakuta Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "rashtrakuta_r2",
+    "name": "Govinda III",
+    "kingdomId": "rashtrakuta",
+    "kingdom": "Rashtrakuta Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "rashtrakuta_r3",
+    "name": "Amoghavarsha I",
+    "kingdomId": "rashtrakuta",
+    "kingdom": "Rashtrakuta Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "delhi_sultanate_r1",
+    "name": "Qutb al-Din Aibak",
+    "kingdomId": "delhi_sultanate",
+    "kingdom": "Delhi Sultanate",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "delhi_sultanate_r2",
+    "name": "Iltutmish",
+    "kingdomId": "delhi_sultanate",
+    "kingdom": "Delhi Sultanate",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "delhi_sultanate_r3",
+    "name": "Alauddin Khalji",
+    "kingdomId": "delhi_sultanate",
+    "kingdom": "Delhi Sultanate",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "delhi_sultanate_r4",
+    "name": "Muhammad bin Tughluq",
+    "kingdomId": "delhi_sultanate",
+    "kingdom": "Delhi Sultanate",
+    "order": 4,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "delhi_sultanate_r5",
+    "name": "Ibrahim Lodi",
+    "kingdomId": "delhi_sultanate",
+    "kingdom": "Delhi Sultanate",
+    "order": 5,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "vijayanagara_r1",
+    "name": "Harihara I",
+    "kingdomId": "vijayanagara",
+    "kingdom": "Vijayanagara Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "vijayanagara_r2",
+    "name": "Bukka Raya I",
+    "kingdomId": "vijayanagara",
+    "kingdom": "Vijayanagara Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "vijayanagara_r3",
+    "name": "Krishnadevaraya",
+    "kingdomId": "vijayanagara",
+    "kingdom": "Vijayanagara Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "vijayanagara_r4",
+    "name": "Aliya Rama Raya",
+    "kingdomId": "vijayanagara",
+    "kingdom": "Vijayanagara Empire",
+    "order": 4,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "bahmani_r1",
+    "name": "Ala-ud-Din Bahman Shah",
+    "kingdomId": "bahmani",
+    "kingdom": "Bahmani Sultanate",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "bahmani_r2",
+    "name": "Firoz Shah Bahmani",
+    "kingdomId": "bahmani",
+    "kingdom": "Bahmani Sultanate",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "bahmani_r3",
+    "name": "Ahmad Shah I Wali",
+    "kingdomId": "bahmani",
+    "kingdom": "Bahmani Sultanate",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mughal_r1",
+    "name": "Babur",
+    "kingdomId": "mughal",
+    "kingdom": "Mughal Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mughal_r2",
+    "name": "Akbar",
+    "kingdomId": "mughal",
+    "kingdom": "Mughal Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mughal_r3",
+    "name": "Jahangir",
+    "kingdomId": "mughal",
+    "kingdom": "Mughal Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mughal_r4",
+    "name": "Shah Jahan",
+    "kingdomId": "mughal",
+    "kingdom": "Mughal Empire",
+    "order": 4,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mughal_r5",
+    "name": "Aurangzeb",
+    "kingdomId": "mughal",
+    "kingdom": "Mughal Empire",
+    "order": 5,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "maratha_r1",
+    "name": "Shivaji",
+    "kingdomId": "maratha",
+    "kingdom": "Maratha Confederacy",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "maratha_r2",
+    "name": "Sambhaji",
+    "kingdomId": "maratha",
+    "kingdom": "Maratha Confederacy",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "maratha_r3",
+    "name": "Shahu I",
+    "kingdomId": "maratha",
+    "kingdom": "Maratha Confederacy",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "maratha_r4",
+    "name": "Peshwa Bajirao I",
+    "kingdomId": "maratha",
+    "kingdom": "Maratha Confederacy",
+    "order": 4,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mysore_r1",
+    "name": "Wodeyar rulers",
+    "kingdomId": "mysore",
+    "kingdom": "Kingdom of Mysore",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mysore_r2",
+    "name": "Haider Ali",
+    "kingdomId": "mysore",
+    "kingdom": "Kingdom of Mysore",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mysore_r3",
+    "name": "Tipu Sultan",
+    "kingdomId": "mysore",
+    "kingdom": "Kingdom of Mysore",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "mysore_r4",
+    "name": "Krishnaraja Wadiyar III",
+    "kingdomId": "mysore",
+    "kingdom": "Kingdom of Mysore",
+    "order": 4,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "sikh_r1",
+    "name": "Maharaja Ranjit Singh",
+    "kingdomId": "sikh",
+    "kingdom": "Sikh Empire",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "sikh_r2",
+    "name": "Kharak Singh",
+    "kingdomId": "sikh",
+    "kingdom": "Sikh Empire",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "sikh_r3",
+    "name": "Duleep Singh",
+    "kingdomId": "sikh",
+    "kingdom": "Sikh Empire",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "ahom_r1",
+    "name": "Sukaphaa",
+    "kingdomId": "ahom",
+    "kingdom": "Ahom Kingdom",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "ahom_r2",
+    "name": "Suhungmung",
+    "kingdomId": "ahom",
+    "kingdom": "Ahom Kingdom",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "ahom_r3",
+    "name": "Pratap Singha",
+    "kingdomId": "ahom",
+    "kingdom": "Ahom Kingdom",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "ahom_r4",
+    "name": "Rudra Singha",
+    "kingdomId": "ahom",
+    "kingdom": "Ahom Kingdom",
+    "order": 4,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "bengal_sultanate_r1",
+    "name": "Shamsuddin Ilyas Shah",
+    "kingdomId": "bengal_sultanate",
+    "kingdom": "Bengal Sultanate",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "bengal_sultanate_r2",
+    "name": "Alauddin Husain Shah",
+    "kingdomId": "bengal_sultanate",
+    "kingdom": "Bengal Sultanate",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "bengal_sultanate_r3",
+    "name": "Ghiyasuddin Mahmud Shah",
+    "kingdomId": "bengal_sultanate",
+    "kingdom": "Bengal Sultanate",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "travancore_r1",
+    "name": "Marthanda Varma",
+    "kingdomId": "travancore",
+    "kingdom": "Kingdom of Travancore",
+    "order": 1,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "travancore_r2",
+    "name": "Dharma Raja",
+    "kingdomId": "travancore",
+    "kingdom": "Kingdom of Travancore",
+    "order": 2,
+    "note": "Reign dates should be researched and verified before publication."
+  },
+  {
+    "id": "travancore_r3",
+    "name": "Swathi Thirunal",
+    "kingdomId": "travancore",
+    "kingdom": "Kingdom of Travancore",
+    "order": 3,
+    "note": "Reign dates should be researched and verified before publication."
+  }
+]

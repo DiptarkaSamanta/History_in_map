@@ -1,0 +1,14 @@
+{
+  "name": "indian-history",
+  "version": "1.0.0",
+  "description": "A browser-based educational atlas for exploring historical kingdoms, rulers, capitals and selected wars in India and the surrounding South Asian region.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

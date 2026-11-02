@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Indian Historical Atlas</title>
+  <link rel="stylesheet" href="css/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div><div class="eyebrow">INTERACTIVE LEARNING ATLAS</div><h1>India Through Time</h1><p>Explore kingdoms, rulers, capitals and conflicts across the Indian subcontinent.</p></div>
+    <div class="year-chip"><span id="yearLabel">1600 CE</span><small>Selected year</small></div>
+  </header>
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel timeline-panel">
+        <div class="section-head"><h2>Historical timeline</h2><span id="eraLabel">Early Modern</span></div>
+        <div class="range-labels"><span>500 BCE</span><span>2000 CE</span></div>
+        <input id="yearSlider" type="range" min="-500" max="2000" value="1600" step="1">
+        <div class="year-controls"><button id="prevEra" title="Previous 100 years">-100</button><button id="nextEra" title="Next 100 years">+100</button><button id="resetYear">Reset</button></div>
+        <p class="hint">Drag the slider to filter historical entities by their active dates.</p>
+      </section>
+      <section class="panel">
+        <div class="section-head"><h2>Map layers</h2></div>
+        <label class="check"><input type="checkbox" id="bordersToggle" checked> Kingdom extent outlines</label>
+        <label class="check"><input type="checkbox" id="capitalsToggle" checked> Historical capitals</label>
+        <label class="check"><input type="checkbox" id="warsToggle"> Wars and battles</label>
+      </section>
+      <section class="panel kingdom-panel">
+        <div class="section-head"><h2>Kingdoms & empires</h2><span id="kingdomCount">0</span></div>
+        <input id="searchBox" class="search" placeholder="Search kingdom, ruler or region…">
+        <div id="kingdomList" class="kingdom-list"></div>
+      </section>
+      <section class="panel source-note">
+        <strong>Historical accuracy note</strong>
+        <p>Coloured outlines in this starter build are schematic teaching illustrations, not verified historical borders. Historical control often changed by year and could include tributary or contested areas. Replace them with sourced, dated GIS polygons before using them as authoritative evidence.</p>
+      </section>
+    </aside>
+    <section class="map-wrap">
+      <div id="map"></div>
+      <div class="map-legend"><span><i class="legend-border"></i> Indicative kingdom extent</span><span><i class="legend-dot"></i> Capital</span><span><i class="legend-war"></i> Battle / conflict</span></div>
+    </section>
+    <aside class="details panel" id="details">
+      <div class="empty-state"><div class="empty-icon">⌖</div><h2>Explore the map</h2><p>Select a kingdom, capital or battle marker to view historical information.</p></div>
+    </aside>
+  </main>
+  <footer>Starter educational prototype · Map tiles © Mapbox & OpenStreetMap contributors · Built with Leaflet</footer>
+  <script src="config.js" onerror="console.info('config.js not found, fallback to open basemaps')"></script>
+  <script src="js/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body></html>

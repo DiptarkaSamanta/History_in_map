@@ -1,0 +1,371 @@
+[
+  {
+    "id": "maurya",
+    "name": "Maurya Empire",
+    "region": "North & Central India",
+    "start": -322,
+    "end": -185,
+    "era": "Ancient",
+    "capital": "Pataliputra",
+    "capitalCoords": [
+      85.1376,
+      25.5941
+    ],
+    "summary": "A major empire founded by Chandragupta Maurya; reached a large extent under Ashoka.",
+    "rulers": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka"
+    ],
+    "notes": "Territorial extent varied by reign. The sample outline is schematic."
+  },
+  {
+    "id": "gupta",
+    "name": "Gupta Empire",
+    "region": "North India",
+    "start": 320,
+    "end": 550,
+    "era": "Ancient",
+    "capital": "Pataliputra",
+    "capitalCoords": [
+      85.1376,
+      25.5941
+    ],
+    "summary": "A major North Indian imperial power associated with rulers such as Samudragupta and Chandragupta II.",
+    "rulers": [
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II"
+    ],
+    "notes": "Political control and tributary influence were not identical; outline is schematic."
+  },
+  {
+    "id": "kushan",
+    "name": "Kushan Empire",
+    "region": "Northwest & North India",
+    "start": 30,
+    "end": 375,
+    "era": "Ancient",
+    "capital": "Mathura / Purushapura",
+    "capitalCoords": [
+      77.6737,
+      27.4924
+    ],
+    "summary": "An empire spanning parts of Central Asia and northern South Asia; Kanishka is a prominent ruler.",
+    "rulers": [
+      "Kujula Kadphises",
+      "Vima Kadphises",
+      "Kanishka"
+    ],
+    "notes": "The map shows only a simplified South Asian footprint."
+  },
+  {
+    "id": "satavahana",
+    "name": "Satavahana Dynasty",
+    "region": "Deccan",
+    "start": 100,
+    "end": 300,
+    "era": "Ancient",
+    "capital": "Pratishthana (Paithan)",
+    "capitalCoords": [
+      75.3812,
+      19.481
+    ],
+    "summary": "A long-lasting Deccan dynasty with shifting centres and influence.",
+    "rulers": [
+      "Simuka",
+      "Gautamiputra Satakarni",
+      "Vashishthiputra Pulumavi"
+    ],
+    "notes": "Dates and territorial limits are debated; outline is schematic."
+  },
+  {
+    "id": "pallava",
+    "name": "Pallava Kingdom",
+    "region": "South India",
+    "start": 275,
+    "end": 897,
+    "era": "Early Medieval",
+    "capital": "Kanchipuram",
+    "capitalCoords": [
+      79.7036,
+      12.8185
+    ],
+    "summary": "A major power in northern Tamil Nadu and adjoining areas, known for its temple architecture.",
+    "rulers": [
+      "Simhavishnu",
+      "Mahendravarman I",
+      "Narasimhavarman I"
+    ],
+    "notes": "The sample polygon represents a broad core region, not a surveyed border."
+  },
+  {
+    "id": "chola",
+    "name": "Chola Empire",
+    "region": "South India",
+    "start": 850,
+    "end": 1279,
+    "era": "Medieval",
+    "capital": "Thanjavur / Gangaikonda Cholapuram",
+    "capitalCoords": [
+      79.1378,
+      10.787
+    ],
+    "summary": "A powerful Tamil dynasty whose influence expanded across southern India and overseas under some rulers.",
+    "rulers": [
+      "Vijayalaya Chola",
+      "Rajaraja I",
+      "Rajendra I",
+      "Kulothunga I"
+    ],
+    "notes": "Overseas expeditions and tributary influence are not represented as continuous land borders."
+  },
+  {
+    "id": "pala",
+    "name": "Pala Empire",
+    "region": "Bengal & Bihar",
+    "start": 750,
+    "end": 1161,
+    "era": "Medieval",
+    "capital": "Pataliputra / Gauda",
+    "capitalCoords": [
+      85.1376,
+      25.5941
+    ],
+    "summary": "A Buddhist imperial dynasty that ruled much of Bengal and Bihar at its height.",
+    "rulers": [
+      "Gopala",
+      "Dharmapala",
+      "Devapala"
+    ],
+    "notes": "Territorial extent changed considerably over time; outline is schematic."
+  },
+  {
+    "id": "rashtrakuta",
+    "name": "Rashtrakuta Empire",
+    "region": "Deccan & Central India",
+    "start": 753,
+    "end": 982,
+    "era": "Medieval",
+    "capital": "Manyakheta",
+    "capitalCoords": [
+      76.2085,
+      17.196
+    ],
+    "summary": "A major Deccan empire that competed with the Palas and Gurjara-Pratiharas.",
+    "rulers": [
+      "Dantidurga",
+      "Govinda III",
+      "Amoghavarsha I"
+    ],
+    "notes": "Sample outline approximates a broad core region."
+  },
+  {
+    "id": "delhi_sultanate",
+    "name": "Delhi Sultanate",
+    "region": "North India",
+    "start": 1206,
+    "end": 1526,
+    "era": "Medieval",
+    "capital": "Delhi",
+    "capitalCoords": [
+      77.209,
+      28.6139
+    ],
+    "summary": "A succession of dynasties ruling from Delhi, with changing reach across the subcontinent.",
+    "rulers": [
+      "Qutb al-Din Aibak",
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Muhammad bin Tughluq",
+      "Ibrahim Lodi"
+    ],
+    "notes": "This broad outline is not valid for every year; use the year slider as a period filter only."
+  },
+  {
+    "id": "vijayanagara",
+    "name": "Vijayanagara Empire",
+    "region": "South India",
+    "start": 1336,
+    "end": 1646,
+    "era": "Medieval",
+    "capital": "Vijayanagara (Hampi)",
+    "capitalCoords": [
+      76.46,
+      15.335
+    ],
+    "summary": "A major South Indian empire founded in the 14th century; its power changed after the Battle of Talikota.",
+    "rulers": [
+      "Harihara I",
+      "Bukka Raya I",
+      "Krishnadevaraya",
+      "Aliya Rama Raya"
+    ],
+    "notes": "The sample outline is schematic and does not depict all tributary relationships."
+  },
+  {
+    "id": "bahmani",
+    "name": "Bahmani Sultanate",
+    "region": "Deccan",
+    "start": 1347,
+    "end": 1527,
+    "era": "Medieval",
+    "capital": "Gulbarga / Bidar",
+    "capitalCoords": [
+      76.8343,
+      17.9133
+    ],
+    "summary": "A Deccan sultanate that later fragmented into successor sultanates.",
+    "rulers": [
+      "Ala-ud-Din Bahman Shah",
+      "Firoz Shah Bahmani",
+      "Ahmad Shah I Wali"
+    ],
+    "notes": "Its boundaries fluctuated; the displayed polygon is indicative only."
+  },
+  {
+    "id": "mughal",
+    "name": "Mughal Empire",
+    "region": "North, Central & South India",
+    "start": 1526,
+    "end": 1857,
+    "era": "Early Modern",
+    "capital": "Agra / Delhi",
+    "capitalCoords": [
+      78.0081,
+      27.1767
+    ],
+    "summary": "A major early-modern empire founded by Babur, reaching a large extent under Aurangzeb.",
+    "rulers": [
+      "Babur",
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "notes": "This outline represents an approximate high-water extent, not the territory in every year."
+  },
+  {
+    "id": "maratha",
+    "name": "Maratha Confederacy",
+    "region": "West & Central India",
+    "start": 1674,
+    "end": 1818,
+    "era": "Early Modern",
+    "capital": "Raigad / Pune",
+    "capitalCoords": [
+      73.8567,
+      18.5204
+    ],
+    "summary": "A confederacy whose influence expanded widely in the 18th century.",
+    "rulers": [
+      "Shivaji",
+      "Sambhaji",
+      "Shahu I",
+      "Peshwa Bajirao I"
+    ],
+    "notes": "Confederate influence, chauth claims and directly administered territory differed; outline is schematic."
+  },
+  {
+    "id": "mysore",
+    "name": "Kingdom of Mysore",
+    "region": "South India",
+    "start": 1399,
+    "end": 1947,
+    "era": "Early Modern",
+    "capital": "Mysore / Srirangapatna",
+    "capitalCoords": [
+      76.6394,
+      12.2958
+    ],
+    "summary": "A South Indian kingdom that became a major power under Haider Ali and Tipu Sultan.",
+    "rulers": [
+      "Wodeyar rulers",
+      "Haider Ali",
+      "Tipu Sultan",
+      "Krishnaraja Wadiyar III"
+    ],
+    "notes": "The sample outline approximates a late-18th-century footprint."
+  },
+  {
+    "id": "sikh",
+    "name": "Sikh Empire",
+    "region": "Punjab & Northwest",
+    "start": 1799,
+    "end": 1849,
+    "era": "Modern",
+    "capital": "Lahore",
+    "capitalCoords": [
+      74.3587,
+      31.5204
+    ],
+    "summary": "An empire consolidated by Maharaja Ranjit Singh in the Punjab region.",
+    "rulers": [
+      "Maharaja Ranjit Singh",
+      "Kharak Singh",
+      "Duleep Singh"
+    ],
+    "notes": "Includes areas now in India and Pakistan; outline is schematic."
+  },
+  {
+    "id": "ahom",
+    "name": "Ahom Kingdom",
+    "region": "Assam",
+    "start": 1228,
+    "end": 1826,
+    "era": "Medieval",
+    "capital": "Charaideo / Garhgaon / Rangpur",
+    "capitalCoords": [
+      94.878,
+      26.95
+    ],
+    "summary": "A long-lasting kingdom in Assam, known for resisting Mughal expansion.",
+    "rulers": [
+      "Sukaphaa",
+      "Suhungmung",
+      "Pratap Singha",
+      "Rudra Singha"
+    ],
+    "notes": "The polygon indicates an approximate Assam core, not all historical claims."
+  },
+  {
+    "id": "bengal_sultanate",
+    "name": "Bengal Sultanate",
+    "region": "Bengal",
+    "start": 1352,
+    "end": 1576,
+    "era": "Medieval",
+    "capital": "Gaur / Pandua",
+    "capitalCoords": [
+      88.1333,
+      24.8667
+    ],
+    "summary": "An independent sultanate that ruled Bengal for over two centuries.",
+    "rulers": [
+      "Shamsuddin Ilyas Shah",
+      "Alauddin Husain Shah",
+      "Ghiyasuddin Mahmud Shah"
+    ],
+    "notes": "The historical region crossed modern India-Bangladesh borders."
+  },
+  {
+    "id": "travancore",
+    "name": "Kingdom of Travancore",
+    "region": "Southwest India",
+    "start": 1729,
+    "end": 1949,
+    "era": "Modern",
+    "capital": "Padmanabhapuram / Thiruvananthapuram",
+    "capitalCoords": [
+      76.9366,
+      8.5241
+    ],
+    "summary": "A prominent princely state in the southwest of the Indian subcontinent.",
+    "rulers": [
+      "Marthanda Varma",
+      "Dharma Raja",
+      "Swathi Thirunal"
+    ],
+    "notes": "The sample outline is a simplified late-period footprint."
+  }
+]
